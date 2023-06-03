@@ -2,7 +2,8 @@
 
 ```
 @article{shi2023transfer,
-author = {Shi, Jiale and Albreiki, Fahed and Colón, Yamil J. and Srivastava, Samanvaya and Whitmer, Jonathan K.},
+author = {Shi, Jiale and Albreiki, Fahed and Colón, Yamil J. and Srivastava, 
+Samanvaya and Whitmer, Jonathan K.},
 title = {Transfer Learning Facilitates the Prediction of Polymer–Surface Adhesion Strength},
 journal = {Journal of Chemical Theory and Computation},
 volume = {0},
